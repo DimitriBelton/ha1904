@@ -1,0 +1,19 @@
+{
+  "name": "1904",
+  "version": "1.0.0",
+  "description": "Beschreibung deines Projekts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "Dein Name",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
